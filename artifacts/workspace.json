@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid22481",
+  "B": "/home/dev/feedback/uid22481",
+  "sha": "26713972e3f9f52dc37d4a421c4554b0bd9e82ef",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "ReFirmLabs",
+    "repo": "binwalk",
+    "sha": "26713972e3f9f52dc37d4a421c4554b0bd9e82ef"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "binwalk",
+    "cloneUrl": "https://github.com/Rrr119/binwalk.git"
+  },
+  "at": "2026-11-16T02:59:36.614Z"
+}
